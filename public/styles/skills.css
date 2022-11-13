@@ -1,0 +1,13 @@
+.center{
+    display: flex;
+    text-align: center;
+}
+.skills-p{
+    padding-bottom: 50px;
+}
+
+.skills-text{
+    font-size: 30px;
+    color:rgb(233, 69, 96);
+    font-weight: bold;
+}

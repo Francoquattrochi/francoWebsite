@@ -1,0 +1,21 @@
+.exp-area{
+    padding: 0% 10% 10% 10%;
+}
+.exp-button{
+    margin-bottom: 10px;
+
+}
+.card{
+    background-color:rgb(6, 40, 61);
+    --bs-card-border-color:white
+
+}
+
+.exp-text{
+    font-size: 20px;
+}
+span.keeptogether {
+  white-space: nowrap ;
+}
+
+
