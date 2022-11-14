@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/francoWebsite/static/js/main.edbfbc71.js",
+    "index.html": "/francoWebsite/index.html",
+    "main.edbfbc71.js.map": "/francoWebsite/static/js/main.edbfbc71.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.edbfbc71.js"
+  ]
+}

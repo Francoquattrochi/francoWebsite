@@ -1,0 +1,27 @@
+.course-img{
+    max-width:100%;
+    max-height:100%;
+}
+.course-sub-img{
+    padding: 12px;
+    
+    width: 70px;
+    height: 70px;
+}
+.course-box{
+    border: solid white 3px;
+    border-radius: 10px;
+}
+
+.grid{
+    margin: 10px;
+}
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
